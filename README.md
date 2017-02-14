@@ -2,7 +2,7 @@
 
 These are a few of my favorite things:
 
--cold sunny day
+- cold sunny day
 - Raindrops on roses
 - Whiskers on kittens
 - Bright copper kettles
